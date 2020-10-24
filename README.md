@@ -1,0 +1,1 @@
+This is Soma's first git project!
